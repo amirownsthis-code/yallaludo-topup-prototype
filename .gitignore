@@ -1,0 +1,19 @@
+# Installed packages and generated builds
+node_modules/
+/dist/
+*.tsbuildinfo
+
+# Local environment files
+.env
+.env.*
+!.env.example
+*.local
+
+# Review/setup archives kept on the local computer
+/yallaludo-review.zip
+/YallaLudo_GitHub_Setup.zip
+
+# Logs and operating-system files
+*.log
+Thumbs.db
+.DS_Store
