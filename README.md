@@ -95,3 +95,34 @@ This script only reads source paths and checks whether files exist. It does not 
 6. Build the app, run preview, and check images and layouts at desktop and mobile widths.
 
 Screenshots can be added under `docs/screenshots/` after the local checks.
+
+## Screenshots
+
+### Homepage
+![Homepage](docs/screenshots/homepage.png)
+
+### Gold Coin Packages
+![Gold Coin packages](docs/screenshots/coins-package.png)
+
+### Diamond Packages
+![Diamond packages](docs/screenshots/diamonds-package.png)
+
+### Simulated Checkout
+![Simulated checkout](docs/screenshots/checkout.png)
+
+### Demo Voucher
+![Demo voucher result](docs/screenshots/coupon-code.png)
+
+<details>
+<summary>More UI screens</summary>
+
+### Delivery Email
+![Delivery email input](docs/screenshots/delivery-email.png)
+
+### Payment Method Selection
+![Demo payment methods](docs/screenshots/payment-method.png)
+
+### Sidebar Navigation
+![Sidebar navigation](docs/screenshots/sidebar.png)
+
+</details>
